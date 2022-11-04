@@ -1,2 +1,2 @@
 Ajout de la fonctionnalité #1
-Ajout de la fonctionnalité #2
+Ajout de la fonctionnalité #2.1
